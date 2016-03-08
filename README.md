@@ -1,6 +1,6 @@
 Barista-matic Programming Assignment
 
-PROBLEM DESCRIPTION:
+Description:
 
 Your task is to create a simulator of an automatic coffee dispensing machine, called the Barista-matic. The machine maintains an inventory of drink ingredients, and is able to dispense a ﬁxed set of possible drinks by combining these ingredients in different amounts. The cost of a drink is determined by its component ingredients.
 
